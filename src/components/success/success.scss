@@ -1,0 +1,32 @@
+.succ{
+    text-align: center;
+    justify-content: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    .img{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 100%;
+    }
+    .text{
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    button{
+        position: relative;
+        background-color: #008CBA;
+        padding:12px 28px ;
+        color: whitesmoke;
+        border-radius: 4px;
+        cursor: pointer;
+        border-color: orange;
+    }
+    span{
+        color:white;
+        background-color:green;
+    }
+
+}
